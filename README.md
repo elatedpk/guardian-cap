@@ -8,7 +8,7 @@ Sensor data is transmitted to Firebase Realtime Database and displayed on a web 
 **Hardware**
 * ESP32 Microcontroller
 * MQ-2 Gas Sensor
-* MPU6050 ACcelerometer
+* MPU6050 Accelerometer and Gyroscope
 * NEO-6M GPS Module
 * IR Sensor
 * Vibration Motor
